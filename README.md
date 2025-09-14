@@ -36,7 +36,7 @@ Add more animations and themed surprises
 ## 🌐 Live Demo
 
 👉 View Live Demo
- (if deployed)
+ (https://hppy-birthday.netlify.app/)
 
  Made with ❤️ to spread smiles and happiness!
 By [Akshit vats]
